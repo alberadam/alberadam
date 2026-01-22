@@ -2,6 +2,9 @@
 
 **Security Service Engineer | Red Team Candidate | Tool Developer**
 
+📍 **Personal Blog**: [alberadam.github.io](https://alberadam.github.io)  
+🔗 **GitHub Pages**: [https://alberadam.github.io](https://alberadam.github.io)
+
 Welcome to my code garden. Here lies my journey from scripting to security engineering.
 
 ## 🚀 Flagship Projects (Level 1)
