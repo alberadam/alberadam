@@ -10,6 +10,7 @@ Welcome to my code garden. Here lies my journey from scripting to security engin
 ## 🚀 Flagship Projects (Level 1)
 | Project | Description | Tech Stack |
 |:--- |:--- |:--- |
+| **[Argus-IR](https://github.com/alberadam/Argus-IR)** | Agentless automated threat hunting & IR framework built with PowerShell. | PowerShell |
 | **[G-Baseline-Auditor](https://github.com/alberadam/G-Baseline-Auditor)** | Enterprise-grade security compliance checker (Win/Linux). | Go, Shell |
 | **[Auto-Sec-Reporter](https://github.com/alberadam/Auto-Sec-Reporter)** | Automated security reporting bot using crawler tech. | Python, Selenium |
 
@@ -30,6 +31,7 @@ Welcome to my code garden. Here lies my journey from scripting to security engin
 ## 🚀 旗舰项目 (Level 1)
 | 项目名称 | 简介 | 技术栈 |
 |:--- |:--- |:--- |
+| **[Argus-IR](https://github.com/alberadam/Argus-IR)** | 基于 PowerShell 的无代理自动化威胁狩猎与应急响应框架。 | PowerShell |
 | **[G-Baseline-Auditor](https://github.com/alberadam/G-Baseline-Auditor)** | 企业级安全基线合规检查工具 (支持 Win/Linux)。 | Go, Shell |
 | **[Auto-Sec-Reporter](https://github.com/alberadam/Auto-Sec-Reporter)** | 基于爬虫技术的自动化安全报告生成机器人。 | Python, Selenium |
 
